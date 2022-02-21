@@ -1,1 +1,1 @@
-#The BoxBot Faded Conquest Forge Updater
+The BoxBot Faded Conquest Forge Updater
